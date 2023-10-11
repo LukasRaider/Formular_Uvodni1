@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\bin\Debug\DU.exe.config
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\bin\Debug\DU.exe
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\bin\Debug\DU.pdb
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\obj\Debug\DU.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\obj\Debug\DU.Form1.resources
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\obj\Debug\DU.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\obj\Debug\DU.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\obj\Debug\DU.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\obj\Debug\DU.exe
+C:\Users\Lenovo\source\repos\VBNETFramework-prezencni\Formulare\DUC#\DU\obj\Debug\DU.pdb
